@@ -12,7 +12,7 @@ Currently, I am seeking a remote QA Tester internship to gain hands-on industry 
 
 ### ✨ Professional Goal
 
-To grow as a manual and automation testing professional and help create intuitive, bug-free applications that users love.
+To grow as a skilled tester and help create intuitive, bug-free applications that users love.
 
 ### 📚 Certificates
 💡 [Manual Testing for Complete Beginners](https://www.udemy.com/certificate/UC-a24ceef4-d14d-4234-9f20-c89399879fc1/) (Completed on May 2025) <br>
