@@ -6,9 +6,9 @@
 
 Greetings! My name is Safinah and currently I am residing in Malaysia 🇲🇾
 
-I am a former HR & Admin professional transitioning into software testing, with a solid foundation built through self-learning and freelance manual testing projects. Skilled in identifying bugs, documenting detailed reproduction steps, and validating user stories. 
+Aspiring Software Tester with a background in HR & Admin and a foundation in manual testing gained through self-learning and freelance work. Skilled in writing test cases, logging bugs with clear reproduction steps, and validating user stories.<br>
 
-Currently, I am seeking a remote QA Tester internship to gain hands-on industry experience and contribute to software quality assurance.
+Currently, I am seeking a 6-months internship to deepen industry exposure and contribute to high-quality software delivery.
 
 ### ✨ Professional Goal
 
