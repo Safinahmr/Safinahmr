@@ -26,4 +26,3 @@ To grow as a skilled tester and help create intuitive, bug-free applications tha
 
 If you have an opportunity to discuss with me, please do not hesitate to reach me via :<br>
 🌐 [LinkedIn](https://www.linkedin.com/in/safinah-rashid/) <br>
-📧 safinah.mr@gmail.com
