@@ -3,15 +3,13 @@
 ---
 ### 👩🏻‍💻 About Me 
 
-Greetings! My name is Safinah and currently I am residing in Malaysia 🇲🇾
+Greetings! My name is Safinah and currently residing in Malaysia 🇲🇾
 
-Aspiring Software Tester with a background in HR & Admin and a foundation in manual testing gained through self-learning and freelance work. Skilled in writing test cases, logging bugs with clear reproduction steps, and validating user stories.<br>
+⚙️ Background in HR & Admin<br>
+🧠 Foundation in manual testing gained through self-learning and freelance work<br>
+🛠 Skilled in writing test cases, logging bugs with clear reproduction steps, and validating user stories.<br>
 
-Currently, I am seeking a 6-months internship to deepen industry exposure and contribute to high-quality software delivery.
-
-### ✨ Professional Goal
-
-To grow as a skilled tester and help create intuitive, bug-free applications that users love.
+💡 Seeking a 6-months internship to deepen industry exposure and contribute to high-quality software delivery.<br>
 
 ### 📚 Certificates
 💡 [Manual Testing for Complete Beginners](https://www.udemy.com/certificate/UC-a24ceef4-d14d-4234-9f20-c89399879fc1/) (Completed on May 2025) <br>
@@ -22,6 +20,4 @@ To grow as a skilled tester and help create intuitive, bug-free applications tha
 
 
 ### 🔗 Connect with Me
-
-If you have an opportunity to discuss with me, please do not hesitate to reach me via :<br>
 🌐 [LinkedIn](https://www.linkedin.com/in/safinah-rashid/) <br>
