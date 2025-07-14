@@ -1,5 +1,5 @@
 # Hello, World! 👋🏻👋🏻👋🏻
-<b>Aspiring Software Tester</b> | Because great software isn’t just built — it’s tested thoroughly.
+<b>Aspiring Software Tester</b> | Because great software isn’t just built; it’s tested thoroughly.
 
 ---
 ### 👩🏻‍💻 About Me 
