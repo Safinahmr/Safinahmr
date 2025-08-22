@@ -9,7 +9,7 @@ Greetings! My name is Safinah and currently residing in Malaysia 🇲🇾
 🧠 Foundation in manual testing gained through self-learning and freelance work<br>
 🛠 Skilled in writing test cases, logging bugs with clear reproduction steps, and validating user stories.<br>
 
-💡 Seeking a 6-months internship to deepen industry exposure and contribute to high-quality software delivery.<br>
+💡 Seeking opportunity to deepen industry exposure and contribute to high-quality software delivery.<br>
 
 ### 📚 Certificates
 💡 [Manual Testing for Complete Beginners](https://www.udemy.com/certificate/UC-a24ceef4-d14d-4234-9f20-c89399879fc1/) (Completed on May 2025) <br>
