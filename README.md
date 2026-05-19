@@ -1,4 +1,4 @@
-<p align="center"><b>Aspiring Software Tester</b> | Because great software isn’t just built; it’s tested thoroughly.</p>
+<p align="center"><b>Software Tester</b> | Because great software isn’t just built; it’s tested thoroughly.</p>
 
 ---
 ### 👩🏻‍💻 About Me 
